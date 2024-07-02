@@ -1,0 +1,14 @@
+C:\Users\Jesús\source\repos\BibliotecaPOO\bin\Debug\net8.0\BibliotecaPOO.exe
+C:\Users\Jesús\source\repos\BibliotecaPOO\bin\Debug\net8.0\BibliotecaPOO.deps.json
+C:\Users\Jesús\source\repos\BibliotecaPOO\bin\Debug\net8.0\BibliotecaPOO.runtimeconfig.json
+C:\Users\Jesús\source\repos\BibliotecaPOO\bin\Debug\net8.0\BibliotecaPOO.dll
+C:\Users\Jesús\source\repos\BibliotecaPOO\bin\Debug\net8.0\BibliotecaPOO.pdb
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.AssemblyInfoInputs.cache
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.AssemblyInfo.cs
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.dll
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\refint\BibliotecaPOO.dll
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.pdb
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.genruntimeconfig.cache
+C:\Users\Jesús\source\repos\BibliotecaPOO\obj\Debug\net8.0\ref\BibliotecaPOO.dll

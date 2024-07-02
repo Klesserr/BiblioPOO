@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|c:\\users\\jes\u00FAs\\source\\repos\\bibliotecapoo\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|c:\\users\\jes\u00FAs\\source\\repos\\bibliotecapoo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|c:\\users\\jes\u00FAs\\source\\repos\\bibliotecapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|c:\\users\\jes\u00FAs\\source\\repos\\bibliotecapoo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26876F01-D1FA-474C-B27C-00389322F6EA}|BibliotecaPOO.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAywBsAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:47:43.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:35:19.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAcwG0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:37:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAs\\source\\repos\\BibliotecaPOO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAAAMcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:27:46.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
